@@ -4,4 +4,7 @@ learning branching
 
 
 
+<<<<<<< HEAD
 merging conflicts
+=======
+
